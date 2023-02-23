@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/xuezhiniao/m3u/main/18.json",
+            "url": "https://raw.githubusercontent.com/xuezhiniao/m3u/main/%E6%BA%90/18.json",
             "name": "自整"
         },
         {
