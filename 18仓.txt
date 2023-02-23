@@ -1,0 +1,12 @@
+{
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/xuezhiniao/m3u/main/18.json",
+            "name": "自整"
+        },
+        {
+            "url": "https://app.easybox.vip/dy",
+            "name": "🚀easybox线路"
+        }
+    ]
+} 	
