@@ -122,7 +122,7 @@
 			"key": "AIvin",
 			"name": "AIvin",
 			"type": 0,
-			"api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+			"api": "http://lbapiby.com/api.php/provide/vod/at/xml",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -130,7 +130,7 @@
 			"key": "色猫",
 			"name": "色猫",
 			"type": 0,
-			"api": "https://caiji.semaozy.net/inc/api.php"
+			"api": "https://caiji.semaozy.net/inc/api.php",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -138,7 +138,7 @@
 			"key": "环亚",
 			"name": "环亚",
 			"type": 0,
-			"api": "http://wmcj8.com/inc/sapi.php"
+			"api": "http://wmcj8.com/inc/sapi.php",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -164,7 +164,7 @@
 			"key": "酷豆",
 			"name": "酷豆",
 			"type": 0,
-			"api": "https://api.kdapi.info/api.php/provide/vod/at/json"
+			"api": "https://api.kdapi.info/api.php/provide/vod/at/json",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -172,7 +172,7 @@
 			"key": "蛋蛋",
 			"name": "蛋蛋",
 			"type": 0,
-			"api": "https://156.249.29.8/inc/apijson_vod.php"
+			"api": "https://156.249.29.8/inc/apijson_vod.php",
 			"searchable": 1,
 			"quickSearch": 1
 		},	
@@ -180,7 +180,7 @@
 			"key": "探探",
 			"name": "探探",
 			"type": 0,
-			"api": "https://apittzy.com/api.php/provide/vod/?ac=list"
+			"api": "https://apittzy.com/api.php/provide/vod/?ac=list",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -188,7 +188,7 @@
 			"key": "久草",
 			"name": "久草",
 			"type": 0,
-			"api": "http://jcspcj8.com/api?ac=videolist"
+			"api": "http://jcspcj8.com/api?ac=videolist",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -197,7 +197,7 @@
 			"key": "色南国",
 			"name": "色南国",
 			"type": 0,
-			"api": "https://api.sexnguon.com/api.php/provide/vod/"
+			"api": "https://api.sexnguon.com/api.php/provide/vod/",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -205,7 +205,7 @@
 			"key": "字幕网",
 			"name": "字幕网",
 			"type": 0,
-			"api": "http://zmcj88.com/sapi?ac=videolist"
+			"api": "http://zmcj88.com/sapi?ac=videolist",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -213,7 +213,7 @@
 			"key": "JAV名优",
 			"name": "JAV名优",
 			"type": 0,
-			"api": "http://mygzycj.com/api.php?ac=list"
+			"api": "http://mygzycj.com/api.php?ac=list",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -221,7 +221,7 @@
 			"key": "奶茶",
 			"name": "奶茶",
 			"type": 0,
-			"api": "https://caiji.naichaapi.com/inc/apijson_vod.php"
+			"api": "https://caiji.naichaapi.com/inc/apijson_vod.php",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -229,7 +229,7 @@
 			"key": "黄AV",
 			"name": "黄AV",
 			"type": 0,
-			"api": "https://www.pgxdy.com/api/xml.php"
+			"api": "https://www.pgxdy.com/api/xml.php",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -242,7 +242,7 @@
 			"key": "香蕉 测试",
 			"name": "香蕉",
 			"type": 0,
-			"api": "https://xx8888.cc/"
+			"api": "https://xx8888.cc/",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -250,7 +250,7 @@
 			"key": "JavBus 测试",
 			"name": "JavBus",
 			"type": 0,
-			"api": "https://www.javsee.men/"
+			"api": "https://www.javsee.men/",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -260,7 +260,7 @@
 			"key": "AIvin",
 			"name": "AIvin",
 			"type": 0,
-			"api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+			"api": "http://lbapiby.com/api.php/provide/vod/at/xml",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -268,7 +268,7 @@
 			"key": "AIvin",
 			"name": "AIvin",
 			"type": 0,
-			"api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+			"api": "http://lbapiby.com/api.php/provide/vod/at/xml",
 			"searchable": 1,
 			"quickSearch": 1
 		},
@@ -276,7 +276,7 @@
 			"key": "AIvin",
 			"name": "AIvin",
 			"type": 0,
-			"api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+			"api": "http://lbapiby.com/api.php/provide/vod/at/xml",
 			"searchable": 1,
 			"quickSearch": 1
 		}		
