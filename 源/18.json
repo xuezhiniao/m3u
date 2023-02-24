@@ -240,7 +240,7 @@
 		
 		{
 			"key": "香蕉 测试",
-			"name": "香蕉",
+			"name": "香蕉 测试",
 			"type": 0,
 			"api": "https://xx8888.cc/",
 			"searchable": 1,
@@ -248,11 +248,12 @@
 		},
 		{
 			"key": "JavBus 测试",
-			"name": "JavBus",
+			"name": "JavBus 测试",
 			"type": 0,
 			"api": "https://www.javsee.men/",
 			"searchable": 1,
-			"quickSearch": 1
+			"quickSearch": 1,
+			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"
 		},
 		
 		
