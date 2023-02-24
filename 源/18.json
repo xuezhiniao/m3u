@@ -255,6 +255,17 @@
 			"quickSearch": 1,
 			"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"
 		},
+		{
+"api": "csp_Hsck",
+"ext": "https://www.javsee.men/",
+"filterable": 0,
+"key": "csp_Hsck",
+"name": "黄色仓库(爬虫)",
+"quickSearch": 1,
+"searchable": 1,
+"type": 3,
+"jar": "https://ghproxy.com/https://raw.githubusercontent.com/xiaomi128/opp/main/xxx.jar"
+},
 		
 		
 		{
