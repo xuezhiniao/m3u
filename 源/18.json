@@ -8,6 +8,10 @@
             "searchable": 1,
             "quickSearch": 1
         },
+	    
+	     
+	    	{"key":"csp_xBPQ_爱人影院","name":"","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xBPQ/airen.json","jar":"./jar/XBPQ_0109.jar"},
+	    
         {
             "key": "葡萄资源",
             "name": "葡萄资源",
@@ -1208,6 +1212,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "wallpaper": "https://picsum.photos/1080/",
-    "spider": "http://52bsj.vip:81/api/v3/file/get/23451/18.jar?sign=cCPHNxilN-Sc0TrzjkjTyk7vaqnSJYNaj10iyemLalc%3D%3A0"
+    "wallpaper": "https://picsum.photos/1080/"
 }
